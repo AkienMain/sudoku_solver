@@ -1,3 +1,11 @@
+# Example
+### Input
+![input/sample.png](https://github.com/AkienMain/sudoku_solver/blob/master/input/sample.png?raw=true)  
+### Output
+![output/sample.png/output.png](https://github.com/AkienMain/sudoku_solver/blob/master/output/sample.png/output.png?raw=true)  
+
+---
+
 # Download
 - ## Set project folder
   - example) C:\sudoku_solver-master
