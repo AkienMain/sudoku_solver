@@ -1,6 +1,6 @@
 # Download
 - ## Set project folder
-  - example) C:\sudoku_solver-main
+  - example) C:\sudoku_solver-master
 # Set configuration file
 - /config.csv
   - corrected_image_size: Length of a side of corrected image
@@ -11,13 +11,13 @@
 # Solve Sudoku
 - ## Set image
   - Set input image in the "input" folder.
-    - example) C:\sudoku_solver-main\input\input_image.png
+    - example) C:\sudoku_solver-master\input\input_image.png
 - ## Run code
   - Open command prompt or PowerShell.
   - Set current directory to this project folder.
     - example)
         ```
-        cd C:\sudoku_solver-main
+        cd C:\sudoku_solver-master
         ```
   - Run this code.
     - example)
