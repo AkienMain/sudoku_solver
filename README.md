@@ -1,3 +1,7 @@
+# Demo Video
+
+[YouTube](https://www.youtube.com/watch?v=KSHXEJjfQM8)
+
 # Example
 ### Input
 ![input/sample.png](https://github.com/AkienMain/sudoku_solver/blob/master/input/sample.png?raw=true)  
