@@ -1,6 +1,7 @@
 # Demo Video
 
-[YouTube](https://www.youtube.com/watch?v=KSHXEJjfQM8)
+[on desktop](https://www.youtube.com/watch?v=KSHXEJjfQM8)  
+[on Google Colab](https://www.youtube.com/watch?v=Zx7rTNGdDCU)  
 
 # Example
 ### Input
@@ -20,7 +21,8 @@
     - 0: None
     - 1: Low frequency
     - 2: High frequency
-# Solve Sudoku
+
+# Solve Sudoku (Desktop)
 - ## Set image
   - Set input image in the "input" folder.
     - example) C:\sudoku_solver-master\input\input_image.png
@@ -40,3 +42,13 @@
         ```
         python sudoku_solver
         ```
+# Solve Sudoku (Google Colab)
+Upload folder on your Google drive
+
+![README_img/001.jpg](https://github.com/AkienMain/sudoku_solver/blob/master/README_img/001.jpg?raw=true)  
+
+Execute script.ipynb
+
+![README_img/002.jpg](https://github.com/AkienMain/sudoku_solver/blob/master/README_img/002.jpg?raw=true)  
+![README_img/003.jpg](https://github.com/AkienMain/sudoku_solver/blob/master/README_img/003.jpg?raw=true)  
+![README_img/004.jpg](https://github.com/AkienMain/sudoku_solver/blob/master/README_img/004.jpg?raw=true)  
